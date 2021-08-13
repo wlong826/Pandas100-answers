@@ -14,3 +14,5 @@ task4-当pandas遇上numpy：https://www.heywhale.com/mw/project/604f1f86df26380
 task5-补充学习：https://www.heywhale.com/mw/project/60504c54df26380015a1c0c1
 
 task6-10道实战应用题：https://www.heywhale.com/mw/project/6052dbdb5316950016f04b74
+
+pandas和numpy活动训练营链接：https://www.heywhale.com/home/competition/60ffa98be9eceb001727ce65
